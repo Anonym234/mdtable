@@ -1,0 +1,11 @@
+[package]
+name = "mdtable"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "library for creating markdown tables that are well formatted"
+repository = "https://github.com/Anonym234/mdtable"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
